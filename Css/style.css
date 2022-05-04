@@ -102,12 +102,15 @@ html {
     width: 100%;
   }
 
+  .btn_login,
   .btn_subir{
       border: none;
       background-color: transparent;
   }
 
+  .btn_login:hover,
   .btn_subir:hover{
+    border-radius: 20px;
       background-color: rgba(128, 128, 128, 0.377); 
   }
   
